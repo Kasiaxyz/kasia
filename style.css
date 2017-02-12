@@ -1,0 +1,80 @@
+/** {
+  border: 1px solid black;
+}*/
+header {
+  padding-top: 30px;
+}
+
+.triangle {
+   width: 0; 
+  height: 0; 
+  border-left: 0px solid transparent;
+  border-right: 50px solid transparent;
+  border-right: 8vw solid transparent;
+ 
+}
+.blue111 {
+  border-top: 50px solid #668FFF; 
+   border-top: 8vw solid #668FFF; 
+ /* border-top: 8vw solid #254FC2;*/
+}
+.blue1111:hover {
+  border-top: 50px solid #380FA1; 
+  border-top: 8vw solid #380FA1; 
+}
+
+.title {
+  padding-top: 30px;
+  font-family: 'Droid Sans', "Helvetica", sans-serif;
+  font-weight: bold;
+  text-align: center;
+}
+
+.under {
+  /*padding-top: 10px;*/
+  padding-bottom: 20px;
+font-family: 'Droid Sans', "Helvetica", sans-serif;
+  font-size: 1.7em;
+ text-align: center;
+}
+.jumbotron {
+  padding-top: 70px;
+  background-color: white;
+}
+
+.media {
+  float: right;
+  margin-right: 10px;
+  margin-right: 10vw;
+}
+
+#mycanvas {
+  padding-top: 20px;
+  padding-bottom: 80px;
+}
+
+.pro {
+   font-size: 1.7em;
+}
+
+.projects {
+  padding-bottom: 80px;
+ }
+
+ul li {
+  font-size: 1.4em;
+  list-style: none;
+}
+
+ul {
+  padding-top: 10px;
+}
+
+#none {
+  padding-top: 30px;
+}
+
+
+.footer {
+  padding-top: 30px;
+}
